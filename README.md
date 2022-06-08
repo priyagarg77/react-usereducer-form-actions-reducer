@@ -1,3 +1,3 @@
-# react-gusrg8
+# react-usereducer-for-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gusrg8)
+Create a form using react-bootstrap and create different actions to set/reset the form values.
